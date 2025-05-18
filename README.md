@@ -4,6 +4,6 @@ ScoutLens is a Chrome extension that provides an enhanced UI/UX experience for [
 
 ---
 
-**TODO**
+**📝 TODO**
 
 - [ ] WIP
